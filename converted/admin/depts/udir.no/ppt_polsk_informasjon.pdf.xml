@@ -1,84 +1,107 @@
-<document xml:lang="pol" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1388</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="pol"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_polsk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Poradnia pedagogiczno-psychologiczna</p>
-<p xml:lang="nob">Poradnia pedagogiczno-psychologiczna (zwana poradnią PP) jest instytucją doradczą i posiada kompetencje w zakresie rozwoju, nauczania oraz dobrego samopoczucia dzieci w wieku przedszkolnym oraz uczniów szkół podstawowych i średnich. Poradnia PP wspiera również dorosłych mających potrzebę edukacji na poziomie szkoły podstawowej. Praca poradni PP opiera się na</p>
-<p xml:lang="nob">postanowieniach ustawy o nauczaniu (OPL) Poradnia PP stanowi fachowe zaplecze dla przedszkoli / szkół w procesie lepszego dostosowywania procesu nauczania do uczniów o szczególnych potrzebach.</p>
-<p xml:lang="nob">Poradnia PP</p>
-<p type="listitem" xml:lang="nob">• może między innymi udzielić przedszkolom i szkołom rad i wskazówek dotyczących kierownictwa pedagogicznego w grupach i środowiskach nauczania •  wspiera szkoły na poziomie kompetencji i rozwoju organizacji, a w przypadkach, w których</p>
-<p xml:lang="nob">wymaga tego ustawa o nauczaniu, dba o opracowanie fachowej oceny, a także udziela przedszkolom i szkołom rad i wskazówek dotyczących dostosowania nauczania dla tych</p>
-<p xml:lang="nob">dzieci i uczniów, którzy tego potrzebują • stanowi prawnie zagwarantowaną usługę gminną, zapisaną w ustawie o nauczaniu § 5-6. Usługa ta może być zorganizowana na poziomie międzygminnym. Gminy i gminy wojewódzkie mogą korzystać ze wspólnych usług.</p>
-<p type="listitem" xml:lang="nob">•  ma obowiązek dochowania tajemnicy: wszelkie pozyskane informacje przechowywane są w specjalnym dzienniku zgodnym z wytycznymi Nadzoru informatycznego</p>
-<p type="listitem" xml:lang="nob">• stanowi gminną/ wojewódzką instancję fachową,  jeśli chodzi o ocenę praw zapisanych w ustawie o nauczaniu (OPL)</p>
-<p xml:lang="nob">Gminy oraz gminy wojewódzkie najczęściej korzystają z doradztwa poradni PP w poniższych</p>
-<p xml:lang="nob">sprawach:</p>
-<p type="listitem" xml:lang="nob">•  szczególna pomoc pedagogiczna dla dzieci w wieku przedszkolnym (§ 5-7)</p>
-<p type="listitem" xml:lang="nob">•  nauczanie specjalne w szkole (§ 5-1) oraz nauczanie dorosłych potrzebujących edukacji na poziomie szkoły podstawowej (§ 4a-2)</p>
-<p type="listitem" xml:lang="nob">• wcześniejsze rozpoczęcie nauki szkolnej (§ 2-1 ustęp trzeci) • odroczone rozpoczęcie nauki szkolnej (§ 2-1 ustęp trzeci) • nauka języka migowego w wieku przedszkolnym oraz w szkole podstawowej (§ 2-6), a także w szkole średniej (§ 3-9)</p>
-<p type="listitem" xml:lang="nob">• nauka języka punktowego w szkole podstawowej (§ 2-14) oraz w szkole średniej (§ 3-10)</p>
-<p type="listitem" xml:lang="nob">•  nabór do szkoły średniej na szczególnych zasadach (§ 3-1, ustęp szósty)</p>
-<p type="listitem" xml:lang="nob">•  ocena uczniów/ praktykantów zgodnie z (§ 3-32 oraz § 3-44) • rozszerzony czas nauczania w szkole średniej (§ 3-1, ustęp piąty)</p>
-<p xml:lang="nob">Zadania</p>
-<p xml:lang="nob">Poradnia PP analizuje konkretne przypadki oraz udziela rad i wskazówek na temat dzieci, młodzieży i dorosłych, mających określone problemy, które mogą mieć znaczenie dla procesu nauczania. Przykłady takich problemów to</p>
-<p type="listitem" xml:lang="nob">• trudności z językiem i mową • ogólne trudności w uczeniu się lub kłopoty z konkretnymi przedmiotami</p>
-<p type="listitem" xml:lang="nob">• trudności w czytaniu i pisaniu</p>
-<p type="listitem" xml:lang="nob">• trudności z matematyką • niewerbalne trudności w uczeniu się</p>
-<p type="listitem" xml:lang="nob">• trudności z koncentracją • trudności społeczne i emocjonalne • trudności z zachowaniem • kłopoty ze słuchem i wzrokiem</p>
+<document xml:lang="pol" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1376</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="pol"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_polsk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Wersja ostateczna 19.11.2012</p>
+<p>Przejrzana 6.12.2012</p>
+<p><em type="bold"></em>Poradnia pedagogiczno-psychologiczna </p>
+<p>Poradnia pedagogiczno-psychologiczna (zwana poradnią PP) jest instytucją doradczą i posiada kompetencje w zakresie rozwoju, nauczania oraz dobrego samopoczucia dzieci w wieku przedszkolnym oraz uczniów szkół podstawowych i średnich. Poradnia PP wspiera również dorosłych mających potrzebę edukacji na poziomie szkoły podstawowej. Praca poradni PP opiera się na postanowieniach ustawy o nauczaniu (OPL) Poradnia PP stanowi fachowe zaplecze dla przedszkoli / szkół w procesie lepszego dostosowywania procesu nauczania do uczniów o szczególnych potrzebach.</p>
+<p>Poradnia</p>
+<p type="listitem">PP</p>
+<p type="listitem">może między innymi udzielić przedszkolom i szkołom rad i wskazówek dotyczących kierownictwa pedagogicznego w grupach i środowiskach nauczania</p>
+<p type="listitem">wspiera szkoły na poziomie kompetencji i rozwoju organizacji, a w przypadkach, w których wymaga tego ustawa o nauczaniu, dba o opracowanie fachowej oceny, a także udziela przedszkolom i szkołom rad i wskazówek dotyczących dostosowania nauczania dla tych  dzieci i uczniów, którzy tego potrzebują</p>
+<p type="listitem">stanowi prawnie zagwarantowaną usługę gminną, zapisaną w ustawie o nauczaniu § 5-6.</p>
+<p type="listitem">Usługa ta może być zorganizowana na poziomie międzygminnym. Gminy i gminy wojewódzkie mogą korzystać ze wspólnych usług.</p>
+<p type="listitem">ma obowiązek dochowania tajemnicy: wszelkie pozyskane informacje przechowywane są w specjalnym dzienniku zgodnym z wytycznymi Nadzoru informatycznego</p>
+<p type="listitem">stanowi gminną/ wojewódzką instancję fachową,  jeśli chodzi o ocenę praw zapisanych w ustawie o nauczaniu (OPL)</p>
+<p type="listitem">Gminy oraz gminy wojewódzkie najczęściej korzystają z doradztwa poradni PP w poniższych sprawach:</p>
+<p type="listitem">szczególna pomoc pedagogiczna dla dzieci w wieku przedszkolnym (§ 5-7)</p>
+<p type="listitem">nauczanie specjalne w szkole (§ 5-1) oraz nauczanie dorosłych potrzebujących edukacji na poziomie szkoły podstawowej (§ 4a-2)</p>
+<p type="listitem">wcześniejsze rozpoczęcie nauki szkolnej (§ 2-1 ustęp trzeci)</p>
+<p type="listitem">odroczone rozpoczęcie nauki szkolnej (§ 2-1 ustęp trzeci)</p>
+<p type="listitem">nauka języka migowego w wieku przedszkolnym oraz w szkole podstawowej (§ 2-6), a także w szkole średniej (§ 3-9)</p>
+<p type="listitem">nauka języka punktowego w szkole podstawowej (§ 2-14) oraz w szkole średniej (§ 3-10)</p>
+<p type="listitem">nabór do szkoły średniej na szczególnych zasadach (§ 3-1, ustęp szósty)</p>
+<p type="listitem">ocena uczniów/ praktykantów zgodnie z (§ 3-32 oraz § 3-44)</p>
+<p type="listitem">rozszerzony czas nauczania w szkole średniej (§ 3-1, ustęp piąty)</p>
+<p>Zadania</p>
+<p>Poradnia PP analizuje konkretne przypadki oraz udziela rad i wskazówek na temat dzieci, młodzieży i dorosłych, mających określone problemy, które mogą mieć znaczenie dla procesu nauczania.</p>
+<p type="listitem">Przykłady takich problemów to</p>
+<p type="listitem">trudności z językiem i mową</p>
+<p type="listitem">ogólne trudności w uczeniu się lub kłopoty z konkretnymi przedmiotami</p>
+<p type="listitem">trudności w czytaniu i pisaniu</p>
+<p>Wersja ostateczna 19.11.2012</p>
+<p type="listitem">Przejrzana 6.12.2012</p>
+<p type="listitem">trudności z matematyką</p>
+<p type="listitem">niewerbalne trudności w uczeniu się</p>
+<p type="listitem">trudności z koncentracją</p>
+<p type="listitem">trudności społeczne i emocjonalne</p>
+<p type="listitem">trudności z zachowaniem</p>
+<p type="listitem">kłopoty ze słuchem i wzrokiem</p>
 <p xml:lang="nob">Kontakt</p>
-<p xml:lang="nob">Z poradnią PP mogą kontaktować się i szukać w niej pomocy uczniowie w wieku powyżej 15 lat, rodzice, przedszkola, szkoły oraz ewentualne inne instancje, na przykład pielęgniarki szkolne również mogą zwracać się o pomoc do poradni PP. Poradnia zajmuje się także dorosłymi, którzy mają potrzebę edukacji na poziomie szkoły podstawowej. Jeśli rozwój dziecka lub jego proces uczenia się budzi</p>
-<p xml:lang="nob">obawy, można o tym porozmawiać anonimowo z poradnią PP, zanim sprawa zostanie formalnie</p>
-<p xml:lang="nob">zgłoszona w postaci skierowania /zgłoszenia.</p>
-<p xml:lang="nob">Skierowanie /zgłoszenie</p>
-<p xml:lang="nob">Zanim sprawa zostanie skierowana do poradni PP należy zbadać, czy przedszkole lub szkoła wyczerpały inne dostępne możliwości w ramach swoich własnych kompetencji. W przypadku dzieci w wieku przedszkolnym ich potrzeby muszą zostać ocenione niezależnie od działań przystosowawczych</p>
-<p xml:lang="nob">ze strony przedszkola.  Sprawę można skierować do poradni PP w celu jej zbadania i oceny, jeśli</p>
-<p type="listitem" xml:lang="nob">•  rodzice, przedszkole i/lub szkoła niepokoi się, że rozwój dziecka nie przebiega adekwatnie do wieku • istnieje podejrzenie, że uczeń nie korzysta w pełni z procesu nauczania  Uczeń lub rodzice mogą wnioskować, aby szkoła przeprowadziła badania niezbędne w celu ustalenia, czy uczeń potrzebuje nauczania specjalnego, a także jakiego ewentualnie konkretnie nauczania uczeń</p>
-<p xml:lang="nob">potrzebuje.</p>
-<p xml:lang="nob">Personel nauczający powinien • ocenić, czy uczeń potrzebuje nauczania specjalnego • jeśli taka potrzeba występuje, zgłosić ten fakt do dyrektora</p>
-<p xml:lang="nob">Skierowanie do poradni PP powinno optymalnie mieć formę współpracy pomiędzy przedszkolem/ szkołą oraz rodzicami. Rodzice lub uczeń (w wieku powyżej 15 lat) muszą wyrazić zgodę na</p>
-<p xml:lang="nob">skierowanie do poradni PP.</p>
-<p xml:lang="nob">Wytyczne oraz procedury dotyczące sposobu zgłaszania przez przedszkole/szkołę dziecka/ucznia do</p>
-<p xml:lang="nob">poradni PP ustala gmina/gmina wojewódzka. Najczęściej skierowania do poradni PP dokonuje się wypełniając odpowiedni formularz. Przedszkole/szkoła załącza raport pedagogiczny z opisem</p>
-<p xml:lang="nob">rozwoju dziecka/ucznia oraz sposobów działania, z jakich korzystano do tej pory.</p>
-<p xml:lang="nob">W celu uzyskania dodatkowych informacji w sprawie skierowania należy skontaktować się z gminą (w przypadku przedszkoli i szkół podstawowych) lub gminą wojewódzką (w przypadku szkół</p>
-<p xml:lang="nob">średnich).</p>
-<p xml:lang="nob">Rozpatrywanie sprawy</p>
-<p xml:lang="nob"><em type="bold">Badanie sprawy </em>Po otrzymaniu przez poradnię PP skierowania, rutynową czynnością jest ustalenie, w czym rodzice, we współpracy z przedszkolem lub szkołą, oczekują pomocy. W większości przypadków oznacza to, że chcieliby, aby poradnia PP opracowała fachową ocenę połączoną z badaniem dziecka i </p>
-<p xml:lang="nob">doradztwem.</p>
-<p xml:lang="nob">Na badanie może się składać • ustalenie dotychczasowej sytuacji i działań podjętych przez przedszkole lub szkołę •  zebranie opinii od innych instancji, przeprowadzenie rozmów, obserwacji i testów dziecka</p>
-<p xml:lang="nob">/ucznia</p>
-<p xml:lang="nob">W przypadku dzieci w wieku przedszkolnym przeprowadzone badania będą odnosiły się do potrzeb</p>
-<p xml:lang="nob">dziecka.</p>
-<p xml:lang="nob">W przypadku uczniów badania będą obejmowały zarówno możliwości dziecka związane z uczeniem się, jak i możliwości szkoły dotyczące przystosowania sytuacji do potrzeb dziecka w ramach zwykłej</p>
-<p xml:lang="nob">oferty nauczania.</p>
-<p xml:lang="nob"><em type="bold">Doradztwo </em>Na podstawie przeprowadzonych badań poradnia PP sporządzi pisemny opis proponowanych działań zaradczych w postaci fachowej oceny szczególnych potrzeb dziecka/ucznia.  </p>
-<p xml:lang="nob">Ocena powinna</p>
-<p type="listitem" xml:lang="nob">• wskazywać, czy dziecko/uczeń ma potrzebę szczególnej pomocy pedagogicznej zgodnie z ustawą o nauczaniu (OPL) § 5-7 lub nauczania specjalnego zgodnie z (OPL) § 5-1</p>
-<p type="listitem" xml:lang="nob">• udzielić rady, jakiego rodzaju pomoc/oferta nauczania powinna zostać zaproponowana.</p>
-<p xml:lang="nob">Jeśli dziecko ma prawo do szczególnej pomocy pedagogicznej zgodnie z ustawą o nauczaniu (OPL) § 5-7, to częścią oferty powinno być doradztwo rodzicom.</p>
-<p xml:lang="nob">W przypadku dzieci w wieku przedszkolnym pisemne doradztwo ze strony poradni PP powinno zawierać określenie</p>
-<p type="listitem" xml:lang="nob">•  jaki rodzaj szczególnej pomocy pedagogicznej zapewni dziecku odpowiedni rozwój</p>
-<p type="listitem" xml:lang="nob">•  realistycznych celów dotyczących rozwoju i nauczania dziecka</p>
-<p xml:lang="nob">W przypadku uczniów pisemne doradztwo ze strony poradni PP powinno zawierać następujące</p>
-<p xml:lang="nob">elementy oceny</p>
-<p type="listitem" xml:lang="nob">• czy można zaradzić trudnościom ucznia w ramach zwykłej oferty nauczania •  jaki rodzaj nauczania będzie odpowiedni dla potrzeb dziecka • jakie są realistyczne cele nauczania w przypadku danego ucznia</p>
-<p xml:lang="nob">Podczas pracy nad przygotowaniem fachowej oceny poradnia PP powinna konsultować się z uczniem i/lub z jego rodzicami i wziąć pod uwagę ich zdanie.</p>
-<p xml:lang="nob">Kiedy fachowa ocena (badanie i doradztwo) są już gotowe, rodzice powinni</p>
-<p type="listitem" xml:lang="nob">• w przypadku dzieci w wieku przedszkolnym wyrazić zgodę na to, aby gmina/właściciel przedszkola podjął na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także</p>
-<p xml:lang="nob">na to, aby gmina/właściciel przedszkola wdrożył zalecone przez poradnię PP działania</p>
-<p type="listitem" xml:lang="nob">•  w przypadku uczniów szkół lub uczniów w wieku powyżej 15 lat wyrazić zgodę na to, aby właściciel szkoły/szkoła podjęła na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także na to, aby właściciel szkoły/szkoła wdrożyła zalecone przez poradnię PP działania</p>
-<p xml:lang="nob">O Statped</p>
-<p xml:lang="nob">(<em type="italic">Państwowa instytucja wspierające szczególne działania pedagogiczne</em>) </p>
-<p xml:lang="nob">W przypadku zaistnienia takiej potrzeby poradnia PP może zwrócić się o pomoc w uzyskaniu</p>
-<p xml:lang="nob">szczególnej pomocy pedagogicznej ze strony Statped.</p>
-<p xml:lang="nob">Statped</p>
-<p type="listitem" xml:lang="nob">•  pomaga w tym, aby dzieci, młodzież i dorośli mający szczególne potrzeby związane z nauczaniem mogli otrzymać stosowną dla siebie ofertę nauczania zgodnie z ustawą o</p>
-<p xml:lang="nob">nauczaniu, tak aby mogli być aktywnymi uczestnikami procesu kształcenia, pracy i życia społecznego  •  rozwija kompetencje i przekazuje wiedzę na temat nauczania specjalnego, a także nauczania dostosowanego, integrującego i gwarantującego równość</p>
-<p type="listitem" xml:lang="nob">•  jest inicjatorem rozwoju szczególnych kompetencji pedagogicznych w obszarach takich jak zaburzenia słuchu, wzroku, problemy z językiem/mową, nabyte uszkodzenia mózgu, złożone trudności w uczeniu się oraz głuchoślepota</p>
-<p type="listitem" xml:lang="nob">• posiada kompetencje dotyczące zasobów niezbędnych w nauczaniu dzieci, młodzieży i dorosłych mających szczególne potrzeby związane z nauczaniem</p>
-<p xml:lang="nob">W celu uzyskania dodatkowych informacji, odwiedź stronę<em type="italic"> www.statped.no.</em> </p>
-<p xml:lang="nob">O Krajowym centrum nauczania wielokulturowego (NAFO)</p>
-<p xml:lang="nob">W przypadku dzieci/uczniów należących do mniejszości językowych nie zawsze łatwo jest ocenić przyczynę trudności w uczeniu się. Czy największy problem stanowi zrozumienie języka, czy też występują inne przyczyny utrudniające uczenie się?</p>
-<p xml:lang="nob">Zadaniem NAFO jest między innymi pomoc w</p>
-<p type="listitem" xml:lang="nob">• wdrażaniu i realizacji krajowej polityki kształcenia, tak aby dzieci, młodzież i dorośli mogli uzyskać równe możliwości oraz dostosowane nauczanie najwyższej jakości w integrującym środowisku.  •  przyjmowaniu i zachowywaniu w nauczaniu przedszkolnym i na poziomie szkoły</p>
-<p xml:lang="nob">podstawowej perspektywy wielokulturowej.  • poprawie jakości oferty nauczania dla uczniów należących do mniejszości językowych oraz pracy nad rozwojem integrującego, wielokulturowego środowiska nauczania w przedszkolach i szkołach podstawowych.</p>
-<p xml:lang="nob">Głównymi adresatami działalności instytucji są nauczyciele, dyrektorzy szkół, właściciele jednostek przedszkolnych i szkół oraz personel pedagogiczny zatrudniony w przedszkolach. Centrum wspiera również sektor nauczania na poziomie wyższym/instytucje kształcenia</p>
-<p xml:lang="nob">nauczycieli w pracach nad rozwojem kompetencji.</p>
-<p xml:lang="nob">W celu uzyskania dodatkowych informacji, odwiedź stronę<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
+<p>Z poradnią PP mogą kontaktować się i szukać w niej pomocy uczniowie w wieku powyżej 15 lat, rodzice, przedszkola, szkoły oraz ewentualne inne instancje, na przykład pielęgniarki szkolne również mogą zwracać się o pomoc do poradni PP. Poradnia zajmuje się także dorosłymi, którzy mają potrzebę edukacji na poziomie szkoły podstawowej. Jeśli rozwój dziecka lub jego proces uczenia się budzi obawy, można o tym porozmawiać anonimowo z poradnią PP, zanim sprawa zostanie formalnie zgłoszona w postaci skierowania /zgłoszenia.</p>
+<p>Skierowanie /zgłoszenie</p>
+<p>Zanim sprawa zostanie skierowana do poradni</p>
+<p>PP należy zbadać, czy przedszkole lub szkoła wyczerpały inne dostępne możliwości w ramach swoich własnych kompetencji. W przypadku dzieci w wieku przedszkolnym ich potrzeby muszą zostać ocenione niezależnie od działań przystosowawczych ze strony przedszkola.</p>
+<p type="listitem">Sprawę można skierować do poradni PP w celu jej zbadania i oceny, jeśli</p>
+<p type="listitem">rodzice, przedszkole i/lub szkoła niepokoi się, że rozwój dziecka nie przebiega adekwatnie do wieku</p>
+<p type="listitem">istnieje podejrzenie, że uczeń nie korzysta w pełni z procesu nauczania</p>
+<p>Uczeń lub rodzice mogą wnioskować, aby szkoła przeprowadziła badania niezbędne w celu ustalenia, czy uczeń potrzebuje nauczania specjalnego, a także jakiego ewentualnie konkretnie nauczania uczeń potrzebuje.</p>
+<p type="listitem">Personel nauczający powinien</p>
+<p type="listitem">ocenić, czy uczeń potrzebuje nauczania specjalnego</p>
+<p type="listitem">jeśli taka potrzeba występuje, zgłosić ten fakt do dyrektora</p>
+<p>Skierowanie do poradni</p>
+<p>PP powinno optymalnie mieć formę współpracy pomiędzy przedszkolem/ szkołą oraz rodzicami. Rodzice lub uczeń (w wieku powyżej 15 lat) muszą wyrazić zgodę na skierowanie do poradni</p>
+<p>PP.</p>
+<p>Wytyczne oraz procedury dotyczące sposobu zgłaszania przez przedszkole/szkołę dziecka/ucznia do poradni PP ustala gmina/gmina wojewódzka. Najczęściej skierowania do poradni PP dokonuje się wypełniając odpowiedni formularz. Przedszkole/szkoła załącza raport pedagogiczny z opisem rozwoju dziecka/ucznia oraz sposobów działania, z jakich korzystano do tej pory.</p>
+<p>W celu uzyskania dodatkowych informacji w sprawie skierowania należy skontaktować się z gminą (w przypadku przedszkoli i szkół podstawowych) lub gminą wojewódzką (w przypadku szkół średnich).</p>
+<p>Rozpatrywanie sprawy</p>
+<p>Wersja ostateczna 19.11.2012</p>
+<p>Przejrzana 6.12.2012 <em type="bold">Badanie sprawy </em>Po otrzymaniu przez poradnię PP skierowania, rutynową czynnością jest ustalenie, w czym rodzice, we współpracy z przedszkolem lub szkołą, oczekują pomocy. W większości przypadków oznacza to, że chcieliby, aby poradnia PP opracowała fachową ocenę połączoną z badaniem dziecka i doradztwem. </p>
+<p type="listitem">Na badanie może się składać</p>
+<p type="listitem">ustalenie dotychczasowej sytuacji i działań podjętych przez przedszkole lub szkołę</p>
+<p type="listitem">zebranie opinii od innych instancji, przeprowadzenie rozmów, obserwacji i testów dziecka /ucznia</p>
+<p>W przypadku dzieci w wieku przedszkolnym przeprowadzone badania będą odnosiły się do potrzeb dziecka.</p>
+<p>W przypadku uczniów badania będą obejmowały zarówno możliwości dziecka związane z uczeniem się, jak i możliwości szkoły dotyczące przystosowania sytuacji do potrzeb dziecka w ramach zwykłej oferty nauczania.</p>
+<p><em type="bold">Doradztwo </em></p>
+<p>Na podstawie przeprowadzonych badań poradnia PP sporządzi pisemny opis proponowanych działań zaradczych w postaci fachowej oceny szczególnych potrzeb dziecka/ucznia.</p>
+<p type="listitem">Ocena powinna</p>
+<p type="listitem">wskazywać, czy dziecko/uczeń ma potrzebę szczególnej pomocy pedagogicznej zgodnie z ustawą o nauczaniu (OPL) § 5-7 lub nauczania specjalnego zgodnie z (OPL) § 5-1</p>
+<p type="listitem">udzielić rady, jakiego rodzaju pomoc/oferta nauczania powinna zostać zaproponowana.</p>
+<p>Jeśli dziecko ma prawo do szczególnej pomocy pedagogicznej zgodnie z ustawą o nauczaniu (OPL) § 5-7, to częścią oferty powinno być doradztwo rodzicom.</p>
+<p>W przypadku dzieci w wieku przedszkolnym pisemne doradztwo ze strony poradni</p>
+<p type="listitem">PP powinno zawierać określenie</p>
+<p type="listitem">jaki rodzaj szczególnej pomocy pedagogicznej zapewni dziecku odpowiedni rozwój</p>
+<p type="listitem">realistycznych celów dotyczących rozwoju i nauczania dziecka</p>
+<p>W przypadku uczniów pisemne doradztwo ze strony poradni</p>
+<p type="listitem">PP powinno zawierać następujące elementy oceny</p>
+<p type="listitem">czy można zaradzić trudnościom ucznia w ramach zwykłej oferty nauczania</p>
+<p type="listitem">jaki rodzaj nauczania będzie odpowiedni dla potrzeb dziecka</p>
+<p type="listitem">jakie są realistyczne cele nauczania w przypadku danego ucznia</p>
+<p>Podczas pracy nad przygotowaniem fachowej oceny poradnia PP powinna konsultować się z uczniem i/lub z jego rodzicami i wziąć pod uwagę ich zdanie.</p>
+<p type="listitem">Kiedy fachowa ocena (badanie i doradztwo) są już gotowe, rodzice powinni</p>
+<p type="listitem">w przypadku dzieci w wieku przedszkolnym wyrazić zgodę na to, aby gmina/właściciel przedszkola podjął na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także na to, aby gmina/właściciel przedszkola wdrożył zalecone przez poradnię PP działania</p>
+<p>Wersja ostateczna 19.11.2012</p>
+<p type="listitem">Przejrzana 6.12.2012</p>
+<p type="listitem">w przypadku uczniów szkół lub uczniów w wieku powyżej 15 lat wyrazić zgodę na to, aby właściciel szkoły/szkoła podjęła na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także na to, aby właściciel szkoły/szkoła wdrożyła zalecone przez poradnię PP działania</p>
+<p>Wersja ostateczna 19.11.2012</p>
+<p>Przejrzana 6.12.2012</p>
+<p>O Statped ( <em type="italic">Państwowa instytucja wspierające szczególne działania pedagogiczne </em>) </p>
+<p>W przypadku zaistnienia takiej potrzeby poradnia</p>
+<p>PP może zwrócić się o pomoc w uzyskaniu szczególnej pomocy pedagogicznej ze strony</p>
+<p xml:lang="nob">Statped.</p>
+<p type="listitem" xml:lang="nob">Statped</p>
+<p type="listitem">pomaga w tym, aby dzieci, młodzież i dorośli mający szczególne potrzeby związane z nauczaniem mogli otrzymać stosowną dla siebie ofertę nauczania zgodnie z ustawą o  nauczaniu, tak aby mogli być aktywnymi uczestnikami procesu kształcenia, pracy i życia społecznego</p>
+<p type="listitem">rozwija kompetencje i przekazuje wiedzę na temat nauczania specjalnego, a także nauczania dostosowanego, integrującego i gwarantującego równość</p>
+<p type="listitem">jest inicjatorem rozwoju szczególnych kompetencji pedagogicznych w obszarach takich jak zaburzenia słuchu, wzroku, problemy z językiem/mową, nabyte  uszkodzenia mózgu, złożone trudności w uczeniu się oraz głuchoślepota</p>
+<p type="listitem">posiada kompetencje dotyczące zasobów niezbędnych w nauczaniu dzieci, młodzieży i dorosłych mających szczególne potrzeby związane z nauczaniem</p>
+<p>W celu uzyskania dodatkowych informacji, odwiedź stronę www.statped.no.</p>
+<p>O Krajowym centrum nauczania wielokulturowego (NAFO)</p>
+<p>W przypadku dzieci/uczniów należących do mniejszości językowych nie zawsze łatwo jest ocenić przyczynę trudności w uczeniu się. Czy największy problem stanowi zrozumienie języka, czy też występują inne przyczyny utrudniające uczenie się?</p>
+<p>Zadaniem</p>
+<p type="listitem">NAFO jest między innymi pomoc w</p>
+<p type="listitem">wdrażaniu i realizacji krajowej polityki kształcenia, tak aby dzieci, młodzież i dorośli mogli uzyskać równe możliwości oraz dostosowane nauczanie najwyższej jakości w integrującym środowisku.</p>
+<p type="listitem">przyjmowaniu i zachowywaniu w nauczaniu przedszkolnym i na poziomie szkoły podstawowej perspektywy wielokulturowej.</p>
+<p type="listitem">poprawie jakości oferty nauczania dla uczniów należących do mniejszości językowych oraz pracy nad rozwojem integrującego, wielokulturowego środowiska nauczania w przedszkolach i szkołach podstawowych.</p>
+<p>Głównymi adresatami działalności instytucji są nauczyciele, dyrektorzy szkół, właściciele jednostek przedszkolnych i szkół oraz personel pedagogiczny zatrudniony w przedszkolach.</p>
+<p>Centrum wspiera również sektor nauczania na poziomie wyższym/instytucje kształcenia nauczycieli w pracach nad rozwojem kompetencji.</p>
+<p>Wersja ostateczna 19.11.2012</p>
+<p>Przejrzana 6.12.2012 W celu uzyskania dodatkowych informacji, odwiedź stronę http://www.hioa.no/Om-</p>
+<p>HiOA/NAFO</p>
 </body></document>
