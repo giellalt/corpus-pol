@@ -1,6 +1,4 @@
-<document xml:lang="pol" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1376</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="pol"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_polsk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Wersja ostateczna 19.11.2012</p>
-<p>Przejrzana 6.12.2012</p>
-<p><em type="bold"></em>Poradnia pedagogiczno-psychologiczna </p>
+<document xml:lang="pol" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1338</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="pol"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_polsk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold"></em>Poradnia pedagogiczno-psychologiczna </p>
 <p>Poradnia pedagogiczno-psychologiczna (zwana poradnią PP) jest instytucją doradczą i posiada kompetencje w zakresie rozwoju, nauczania oraz dobrego samopoczucia dzieci w wieku przedszkolnym oraz uczniów szkół podstawowych i średnich. Poradnia PP wspiera również dorosłych mających potrzebę edukacji na poziomie szkoły podstawowej. Praca poradni PP opiera się na postanowieniach ustawy o nauczaniu (OPL) Poradnia PP stanowi fachowe zaplecze dla przedszkoli / szkół w procesie lepszego dostosowywania procesu nauczania do uczniów o szczególnych potrzebach.</p>
 <p>Poradnia</p>
 <p type="listitem">PP</p>
@@ -26,8 +24,6 @@
 <p type="listitem">trudności z językiem i mową</p>
 <p type="listitem">ogólne trudności w uczeniu się lub kłopoty z konkretnymi przedmiotami</p>
 <p type="listitem">trudności w czytaniu i pisaniu</p>
-<p>Wersja ostateczna 19.11.2012</p>
-<p type="listitem">Przejrzana 6.12.2012</p>
 <p type="listitem">trudności z matematyką</p>
 <p type="listitem">niewerbalne trudności w uczeniu się</p>
 <p type="listitem">trudności z koncentracją</p>
@@ -51,9 +47,7 @@
 <p>PP.</p>
 <p>Wytyczne oraz procedury dotyczące sposobu zgłaszania przez przedszkole/szkołę dziecka/ucznia do poradni PP ustala gmina/gmina wojewódzka. Najczęściej skierowania do poradni PP dokonuje się wypełniając odpowiedni formularz. Przedszkole/szkoła załącza raport pedagogiczny z opisem rozwoju dziecka/ucznia oraz sposobów działania, z jakich korzystano do tej pory.</p>
 <p>W celu uzyskania dodatkowych informacji w sprawie skierowania należy skontaktować się z gminą (w przypadku przedszkoli i szkół podstawowych) lub gminą wojewódzką (w przypadku szkół średnich).</p>
-<p>Rozpatrywanie sprawy</p>
-<p>Wersja ostateczna 19.11.2012</p>
-<p>Przejrzana 6.12.2012 <em type="bold">Badanie sprawy </em>Po otrzymaniu przez poradnię PP skierowania, rutynową czynnością jest ustalenie, w czym rodzice, we współpracy z przedszkolem lub szkołą, oczekują pomocy. W większości przypadków oznacza to, że chcieliby, aby poradnia PP opracowała fachową ocenę połączoną z badaniem dziecka i doradztwem. </p>
+<p>Rozpatrywanie sprawy przez poradnię PP skierowania, rutynową czynnością jest ustalenie, w czym rodzice, we współpracy z przedszkolem lub szkołą, oczekują pomocy. W większości przypadków oznacza to, że chcieliby, aby poradnia PP opracowała fachową ocenę połączoną z badaniem dziecka i doradztwem.</p>
 <p type="listitem">Na badanie może się składać</p>
 <p type="listitem">ustalenie dotychczasowej sytuacji i działań podjętych przez przedszkole lub szkołę</p>
 <p type="listitem">zebranie opinii od innych instancji, przeprowadzenie rozmów, obserwacji i testów dziecka /ucznia</p>
@@ -77,11 +71,7 @@
 <p>Podczas pracy nad przygotowaniem fachowej oceny poradnia PP powinna konsultować się z uczniem i/lub z jego rodzicami i wziąć pod uwagę ich zdanie.</p>
 <p type="listitem">Kiedy fachowa ocena (badanie i doradztwo) są już gotowe, rodzice powinni</p>
 <p type="listitem">w przypadku dzieci w wieku przedszkolnym wyrazić zgodę na to, aby gmina/właściciel przedszkola podjął na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także na to, aby gmina/właściciel przedszkola wdrożył zalecone przez poradnię PP działania</p>
-<p>Wersja ostateczna 19.11.2012</p>
-<p type="listitem">Przejrzana 6.12.2012</p>
 <p type="listitem">w przypadku uczniów szkół lub uczniów w wieku powyżej 15 lat wyrazić zgodę na to, aby właściciel szkoły/szkoła podjęła na podstawie przedłożonej fachowej oceny jednorazową decyzję, a także na to, aby właściciel szkoły/szkoła wdrożyła zalecone przez poradnię PP działania</p>
-<p>Wersja ostateczna 19.11.2012</p>
-<p>Przejrzana 6.12.2012</p>
 <p>O Statped ( <em type="italic">Państwowa instytucja wspierające szczególne działania pedagogiczne </em>) </p>
 <p>W przypadku zaistnienia takiej potrzeby poradnia</p>
 <p>PP może zwrócić się o pomoc w uzyskaniu szczególnej pomocy pedagogicznej ze strony</p>
@@ -100,8 +90,6 @@
 <p type="listitem">przyjmowaniu i zachowywaniu w nauczaniu przedszkolnym i na poziomie szkoły podstawowej perspektywy wielokulturowej.</p>
 <p type="listitem">poprawie jakości oferty nauczania dla uczniów należących do mniejszości językowych oraz pracy nad rozwojem integrującego, wielokulturowego środowiska nauczania w przedszkolach i szkołach podstawowych.</p>
 <p>Głównymi adresatami działalności instytucji są nauczyciele, dyrektorzy szkół, właściciele jednostek przedszkolnych i szkół oraz personel pedagogiczny zatrudniony w przedszkolach.</p>
-<p>Centrum wspiera również sektor nauczania na poziomie wyższym/instytucje kształcenia nauczycieli w pracach nad rozwojem kompetencji.</p>
-<p>Wersja ostateczna 19.11.2012</p>
-<p>Przejrzana 6.12.2012 W celu uzyskania dodatkowych informacji, odwiedź stronę http://www.hioa.no/Om-</p>
+<p>Centrum wspiera również sektor nauczania na poziomie wyższym/instytucje kształcenia nauczycieli w pracach nad rozwojem kompetencji. , odwiedź stronę http://www.hioa.no/Om-</p>
 <p>HiOA/NAFO</p>
 </body></document>
